@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../class-practice"
+		},
+		{
+			"path": "../../../class-practice/project-sample"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project-starter"
+	}
+}
