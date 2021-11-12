@@ -8,6 +8,11 @@
 /* BEG styling for logo on top */
 body {
   margin: 0;
+
+font-family: "Times New Roman";
+
+font-size: 16px;
+
 }
 
 header a.logo {
