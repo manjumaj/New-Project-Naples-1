@@ -714,9 +714,6 @@ table#courses tbody td img {
 /* Style the back side text */
 .flip-card-back-text {
   color: #339999;
-  position: absolute;
-  top: 10px;
-  left: 20px;
   font-size: 1.1em;
   font-weight: normal;
   letter-spacing: 2px;
